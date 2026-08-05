@@ -1,0 +1,9 @@
+uid: NG-0001
+type: non_goal
+status: approved
+title: First non-goal
+text: Record something deliberately out of scope, so nobody proposes it later. Non-goals
+  are negative space; nothing grounds to them.
+normative: false
+attrs:
+  origin: human

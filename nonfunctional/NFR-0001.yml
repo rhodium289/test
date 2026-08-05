@@ -1,0 +1,14 @@
+uid: NFR-0001
+type: nfr
+status: deleted
+title: First quality attribute
+text: State a quality the system shall have (performance, security, usability), then
+  replace this.
+normative: true
+links:
+- target: INT-0001
+  type: implements
+attrs:
+  origin: human
+deleted:
+  reason: unspecified

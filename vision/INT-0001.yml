@@ -1,0 +1,9 @@
+uid: INT-0001
+type: intent
+status: deleted
+title: Deliver Example
+text: Describe the outcome this project exists to create. Every requirement below
+  grounds back to this intent.
+normative: false
+deleted:
+  reason: unspecified
