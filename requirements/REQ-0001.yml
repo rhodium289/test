@@ -1,0 +1,12 @@
+uid: REQ-0001
+type: requirement
+status: approved
+title: First requirement
+text: State something the system shall do, then replace this with a real requirement.
+normative: true
+links:
+- target: INT-0001
+  type: implements
+attrs:
+  priority: must
+  origin: human
